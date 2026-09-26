@@ -1,0 +1,1 @@
+    PyPhiveCharacterProperty* __get_character_property();

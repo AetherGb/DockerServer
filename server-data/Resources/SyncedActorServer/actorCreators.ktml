@@ -1,0 +1,62 @@
+<import>: "com.kirbymimi.totkServer.componentSync"
+<import>: "com.kirbymimi.serverCommon.actorSync"
+"Default": {
+	"childCreators": {
+		{
+			"targetClass": "ActorBaseSync"
+			"properties": {
+				"positionSyncType": "VELOCITY"
+			}
+		}
+		{
+			"targetClass": "ActorLifeSync"
+		}
+		{
+			"targetClass": "ActorCollisionSync"
+		}
+		{
+			"targetClass": "ActorScotchSync"
+		}
+	}
+}
+"PlayerPuppet": {
+	"childCreators": {
+		{
+			"targetClass": "ActorBaseSync"
+			"properties": {
+				"positionSyncType": "LERP"
+			}
+		}
+		{
+			"targetClass": "ActorAnimationSync"
+		}
+		{
+			"targetClass": "ActorEquipmentSync"
+		}
+		{
+			"targetClass": "ActorCollisionSync"
+		}
+		{
+			"targetClass": "ActorPlayerMiscSync"
+		}
+		{
+			"targetClass": "SyncedActorComponent"
+			"properties": {
+				"isPuppet": true
+			}
+		}
+	}
+}
+"WeaponPuppet": {
+	"childCreators": {
+		{
+			"targetClass": "ActorWeaponPuppetSync"
+		}
+		{
+			"targetClass": "SyncedActorComponent"
+			"properties": {
+				"isPuppet": true
+			}
+		}
+	}
+}

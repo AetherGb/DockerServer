@@ -1,0 +1,4 @@
+    static bool is_valid_ptr(u64 address, u32 permission);
+    static u64 read_u64(u64 address);
+    static void write_u64(u64 address, u64 value);
+    static void call(std::pair<int, py_Ref> arg);

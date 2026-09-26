@@ -1,0 +1,16 @@
+"client": {
+	"moduleName": "BasicUIs"
+	"scripts": {
+		"client.py"
+		"teleport_client.py"
+		"coop_features.py"
+	}
+}
+"server": {
+	"moduleName": "BasicUIs"
+	"scripts": {
+		"server.py"
+		"commands.py"
+		"coop_features_server.py"
+	}
+}

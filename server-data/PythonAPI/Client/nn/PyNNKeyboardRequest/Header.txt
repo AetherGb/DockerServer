@@ -1,0 +1,1 @@
+    static void keyboard_request_text();

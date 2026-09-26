@@ -1,0 +1,3 @@
+    u32 __get_width();
+    u32 __get_height();
+    u64 __get_texture_handle();

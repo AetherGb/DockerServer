@@ -1,0 +1,2 @@
+    f32 __get_font_size();
+    void __set_font_size(f32 fontSize);

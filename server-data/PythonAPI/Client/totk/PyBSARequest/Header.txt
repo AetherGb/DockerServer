@@ -1,0 +1,12 @@
+    void __set__0(Vec3* val);
+    void __set__C(Vec3* val);
+    void __set__18(Vec3* val);
+    void __set__24(u32 val);
+    void __set__28(u32 val);
+    void __set__2C(f32 val);
+    void __set__30(f32 val);
+    void __set__34(u32 val);
+    void __set_strData(const char* val);
+    void __set__48(u32 val);
+    void __set__4C(u32 val);
+    void __set__50(u32 val);

@@ -1,0 +1,4 @@
+    static u32 mouse_get_x();
+    static u32 mouse_get_y();
+    static bool mouse_get_click(u32 click);
+    static f32 mouse_get_wheel_x();

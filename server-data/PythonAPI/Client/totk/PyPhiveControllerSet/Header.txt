@@ -1,0 +1,1 @@
+    PyPhiveCharacterController* __get_character_controller();

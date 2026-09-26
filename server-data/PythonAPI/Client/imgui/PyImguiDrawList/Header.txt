@@ -1,0 +1,6 @@
+    void add_line(Vec3* p1, Vec3* p2, u32 color, f32 thickness);
+    void add_text(Vec3* pos, u32 color, const char* text);
+    void add_image(u64 textureId, Vec3* p1, Vec3* p2, Vec3* uv1, Vec3* uv2, u32 color);
+    void add_rect_filled(Vec3* p1, Vec3* p2, u32 col, f32 rounding, u32 flags);
+    void add_triangle(Vec3* p1, Vec3* p2, Vec3* p3, u32 col, f32 thickness);
+    void add_triangle_filled(Vec3* p1, Vec3* p2, Vec3* p3, u32 col);

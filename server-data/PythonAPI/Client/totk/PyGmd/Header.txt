@@ -1,0 +1,4 @@
+    static void gmd_get_value(const char* name);
+    static void gmd_get_array_value(const char* name, u32 arrayIdx);
+    static void gmd_set_value(const char* name, py_Ref val);
+    static void gmd_set_array_value(const char* name, u32 arrayIdx, py_Ref val);

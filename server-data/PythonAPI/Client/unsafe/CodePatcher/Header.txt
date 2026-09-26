@@ -1,0 +1,3 @@
+    static void reset_patches();
+    static void patch_u32(u32 offset, u32 value);
+    static void patch_array(u32 offset, std::pair<u8*, u32> value);

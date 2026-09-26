@@ -1,0 +1,4 @@
+    bool is_open();
+    Vec3* __get_camera_position();
+    f32 __get_zoom();
+    u32 __get_layer();

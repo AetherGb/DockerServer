@@ -1,0 +1,3 @@
+    static bool touch_screen_is_touched();
+    static u32 touch_screen_get_x();
+    static u32 touch_screen_get_y();

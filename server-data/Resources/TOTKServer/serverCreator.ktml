@@ -1,0 +1,67 @@
+<import>: "com.kirbymimi.totkServer"
+<import>: "com.kirbymimi.totkServer.save"
+<import>: "com.kirbymimi.serverCommon.actorSync"
+<import>: "com.kirbymimi.serverCommon.python"
+<import>: "com.kirbymimi.serverCommon.resource"
+<import>: "com.kirbymimi.serverCommon.command"
+<import>: "com.kirbymimi.serverCommon.ban"
+<import>: "com.kirbymimi.mmb.net"
+<type>: "com.kirbymimi.mmb.actor.ActorCreator"
+"targetClass": "TOTKServer"
+"properties": {
+	"port": 10014
+}
+"childCreators": {
+	{
+		"targetClass": "TOTKClient"
+		"createWithParent": false
+		"childCreators": {
+			{
+				"isSyncedWithParent": false
+				"targetClass": "SyncedActorClient"
+				"constructorArgs": {
+					"PlayerPuppet"
+				}
+			}
+		}
+	}
+	{
+		"targetClass": "CommandServer"
+		"isSyncedWithParent": false
+	}
+	{
+		"targetClass": "PythonServer"
+		"isSyncedWithParent": false
+	}
+	{
+		"targetClass": "ActorFilter"
+		"isSyncedWithParent": false
+	}
+	{
+		"targetClass": "ResourceServer"
+		"isSyncedWithParent": false
+		"properties": {
+			"serverMaxUploadPerSecond": 10000000
+		}
+	}
+	{
+		"targetClass": "BanServer"
+		"isSyncedWithParent": false
+	}
+	{
+		"targetClass": "SaveServer"
+		"isSyncedWithParent": false
+	}
+	{
+		"targetClass": "SyncedActorServer"
+		"properties": {
+			"actorAutoDisposeDistance": 1000.0
+		}
+		"childCreators": {
+			{
+				"createWithParent": false
+				"targetClass": "SyncedActorManager"
+			}
+		}
+	}
+}

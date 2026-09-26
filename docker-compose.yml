@@ -1,0 +1,11 @@
+services:
+  totk-server:
+    image: wesleyhellewell/totk_online_multiplayer_server_test:latest
+    container_name: totk-multiplayer-server
+    ports:
+      - "10014:10014"
+    volumes:
+      - ./server-data:/app/run
+    stdin_open: true   # keep stdin open so CommandServer's readLine() blocks instead of spinning on EOF
+    tty: true
+    restart: unless-stopped

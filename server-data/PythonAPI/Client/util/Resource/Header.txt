@@ -1,0 +1,8 @@
+    static PyResource* load_resource(const char* path);
+    bool exists();
+    bool is_folder();
+    bool is_not_downloading();
+    bool is_ready();
+    std::pair<u8*, u32> get_data();
+    u32 get_size();
+    void invalidate();

@@ -1,0 +1,8 @@
+    static PyImguiDrawList* get_background_draw_list();
+    static PyImguiDrawList* get_foreground_draw_list();
+    static PyImguiSharedData* get_draw_list_shared_data();
+    static Vec3* calc_text_size(const char* text);
+    static bool button(const char* text, Vec3* size);
+    static PyImguiFont* init_font(std::pair<u8*, u32> bytes, f32 size);
+    static void push_font(PyImguiFont* font);
+    static void pop_font();

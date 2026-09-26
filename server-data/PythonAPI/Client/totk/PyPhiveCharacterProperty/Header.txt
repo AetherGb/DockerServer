@@ -1,0 +1,8 @@
+    Vec3* __get_gravity();
+    Vec3* __get_move_up_dir();
+    void __set_gravity(Vec3* vec);
+    void __set_move_up_dir(Vec3* vec);
+    void __set_forward_speed(f32 speed);
+    void __set_forward_dir(Vec3* dir);
+    f32 __get_forward_speed();
+    Vec3* __get_forward_dir();

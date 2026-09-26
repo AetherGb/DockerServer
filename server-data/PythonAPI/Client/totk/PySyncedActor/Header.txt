@@ -1,0 +1,12 @@
+    bool is_valid();
+    char* __get_game_name();
+    char* __get_properties_name();
+    PyActor* __get_game_actor();
+    Vec3* __get_position();
+    void update_bsa_request(PyBSARequest* req);
+    void change_bsa_request(PyBSARequest* req);
+    const char* __get_player_name();
+    bool __get_player_is_gay();
+    u64 __get_player_instance_uid();
+    bool __eq__(py_Ref other);
+    bool __ne__(py_Ref other);

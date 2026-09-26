@@ -1,0 +1,5 @@
+    void __init__(const char* name);
+    void __set_position(Vec3* pos);
+    void __set_rotation(Vec3* rot);
+    void __set_scale(Vec3* scale);
+    PyActor* summon();

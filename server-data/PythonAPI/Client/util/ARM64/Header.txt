@@ -1,0 +1,3 @@
+    static u32 assemble_nop();
+    static u32 assemble_ret();
+    static u32 assemble_mov(bool bit, u32 dst, u32 imm);

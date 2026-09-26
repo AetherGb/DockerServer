@@ -1,0 +1,2 @@
+    Matrix44* get_matrix();
+    Vec3* get_position();
