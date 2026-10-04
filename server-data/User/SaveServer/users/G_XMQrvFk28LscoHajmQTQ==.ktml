@@ -40,11 +40,6 @@
 	"InLargeDungeonThunder": false
 	"InLargeDungeonFire": false
 	"InLargeDungeonWater": false
-	"HavePlayedEvent.Dm_OP_0038": true
-	"HavePlayedEvent.Dm_OP_0037": true
-	"Npc_HatenoVillage030_MovePos": true
-	"GOToTheCastleOfHyrule_AfterMove": true
-	"HavePlayedEvent.DefaultBootEvent": true
 }
 "BoolArray": {
 	"Pouch.Shield.IsEnableShortcut": {
@@ -476,7 +471,7 @@
 		-1
 	}
 	"Pouch.Arrow.Content.StockNum": {
-		39
+		34
 		-1
 	}
 	"Pouch.Weapon.Content.RecordExtraLife": {
@@ -484,7 +479,7 @@
 		9
 		-1
 		-1
-		2
+		10
 		4
 		-1
 		-1
@@ -645,7 +640,7 @@
 		2
 		1
 		1
-		6
+		4
 		3
 		5
 		2
@@ -653,11 +648,11 @@
 		1
 		1
 		6
-		10
-		2
-		1
-		2
-		3
+		-1
+		-1
+		-1
+		-1
+		-1
 		-1
 		-1
 		-1
@@ -1158,11 +1153,11 @@
 		9
 		0
 		0
-		2
+		10
 		4
 		0
 		0
-		0
+		-1
 		-1
 		-1
 		-1
@@ -2326,7 +2321,7 @@
 		4
 		25
 		12
-		4
+		-1
 		-1
 		-1
 		-1
@@ -3014,7 +3009,7 @@
 		0
 		0
 		0
-		0
+		-1
 		-1
 		-1
 		-1
@@ -3242,7 +3237,7 @@
 }
 "Float": {
 	"PlayerStatus.CookBuffTime": 0.0
-	"PlayerStatus.SavePosRadY": 0.7928989
+	"PlayerStatus.SavePosRadY": 1.3292542
 	"PlayerStatus.Companion.Fire.RemainingEnergy": 100.0
 	"PlayerStatus.ExtraEnergy": 0.0
 	"PlayerStatus.TemporaryExtraStamina": 0.0
@@ -3953,54 +3948,14 @@
 }
 "Vector3": {
 	"World_PlayerPos": {
-		"x": -87.91392517089844
-		"y": 132.85243225097656
-		"z": 507.2814025878906
+		"x": -198.9031982421875
+		"y": 125.96273803710938
+		"z": -437.19439697265625
 	}
 	"PlayerStatus.SavePos": {
-		"x": -234.9291229248047
-		"y": 124.64640045166016
-		"z": -64.86669921875
-	}
-	"Dragon_Light_Pos_For_Map": {
-		"x": -2676.548583984375
-		"y": 2193.27880859375
-		"z": -1966.39404296875
-	}
-	"Dragon_Light_Dir": {
-		"x": -0.9696590304374695
-		"y": 0.04796754568815231
-		"z": -0.23971021175384521
-	}
-	"Dragon_Electric_Pos": {
-		"x": -672.4175415039062
-		"y": 400.4638366699219
-		"z": 2411.4501953125
-	}
-	"Dragon_Electric_Dir": {
-		"x": 0.9614762663841248
-		"y": -0.0012460576836019754
-		"z": -0.27488571405410767
-	}
-	"Dragon_Fire_Pos": {
-		"x": 1419.8692626953125
-		"y": 647.2597045898438
-		"z": -3577.46728515625
-	}
-	"Dragon_Fire_Dir": {
-		"x": -0.9990296363830566
-		"y": -0.040038175880908966
-		"z": 0.01835465431213379
-	}
-	"Dragon_Ice_Pos": {
-		"x": 3341.6630859375
-		"y": -436.94000244140625
-		"z": 1255.9024658203125
-	}
-	"Dragon_Ice_Dir": {
-		"x": 0.8899646997451782
-		"y": 0.057597119361162186
-		"z": 0.45237767696380615
+		"x": -261.4840393066406
+		"y": 126.96849060058594
+		"z": -383.2180480957031
 	}
 }
 "String64": {
@@ -5426,11 +5381,11 @@
 		"Item_Ore_I"
 		"Item_PlantGet_J"
 		"Obj_FireWoodBundle"
-		"LightBall_Small"
-		"Item_Enemy_40"
-		"BeeHome"
-		"FldObj_Pinecone_A_01"
-		"LightFruit"
+		""
+		""
+		""
+		""
+		""
 		""
 		""
 		""
@@ -5931,7 +5886,7 @@
 		"Weapon_Sword_167"
 		"Weapon_Spear_112"
 		"Weapon_Spear_021"
-		"Weapon_Sword_044"
+		""
 		""
 		""
 		""
@@ -5969,8 +5924,8 @@
 		""
 	}
 	"unk3294163435": {
-		"City_BaseCamp"
-		""
+		"CastleTownMark"
+		"HyruleCentralPlace"
 		""
 		""
 		""
@@ -6027,7 +5982,6 @@
 	"LastWildHorse.Hair.PrimaryColor.Green": 0
 	"LastWildHorse.Body.PrimaryColor.Red": 0
 	"LastWildHorse.Body.SecondaryColor.Green": 255
-	"unk3849581924": 30
 }
 "UIntArray": {
 	"OwnedHorseList.Hair.PrimaryColor.Red": {

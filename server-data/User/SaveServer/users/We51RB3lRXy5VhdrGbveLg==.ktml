@@ -120,10 +120,10 @@
 	"PlayerStatus.CurrentRupee": 0
 	"PlayerStatus.TemporaryLife": 0
 	"PlayerStatus.Companion.Wind.ForUI.RemainingSecond": 0
-	"PlayerStatus.WeaponAttachCount": 4
+	"PlayerStatus.WeaponAttachCount": 3
 	"PlayerStatus.Companion.Water.ForUI.RemainingMinute": 0
 	"PlayerStatus.Companion.Wind.ForUI.RemainingMinute": 0
-	"PlayerStatus.Life": 11
+	"PlayerStatus.Life": 12
 	"PlayerStatus.CookBuff": 0
 	"PlayerStatus.TemporaryBreakLife": 0
 	"PlayerStatus.CurrentMamo": 0
@@ -341,7 +341,7 @@
 		-1
 	}
 	"Pouch.Bow.EquipIndex": {
-		0
+		-1
 		-1
 	}
 	"Pouch.Armor.EquipIndexes.Upper": {
@@ -471,14 +471,14 @@
 		-1
 	}
 	"Pouch.Arrow.Content.StockNum": {
-		5
+		-1
 		-1
 	}
 	"Pouch.Weapon.Content.RecordExtraLife": {
 		23
 		25
 		25
-		1
+		-1
 		-1
 		-1
 		-1
@@ -590,7 +590,7 @@
 		0
 		0
 		0
-		0
+		-1
 		-1
 		-1
 		-1
@@ -629,25 +629,25 @@
 		-1
 	}
 	"Pouch.Weapon.EquipIndex": {
-		3
+		0
 		-1
 	}
 	"Pouch.Material.Content.StockNum": {
-		13
+		3
 		1
 		2
 		2
-		1
-		5
-		6
-		2
-		1
-		5
-		1
-		1
 		1
 		2
 		3
+		-1
+		-1
+		-1
+		-1
+		-1
+		-1
+		-1
+		-1
 		-1
 		-1
 		-1
@@ -1145,17 +1145,17 @@
 		-1
 	}
 	"Pouch.Arrow.EquipIndex": {
-		0
+		-1
 		-1
 	}
 	"Pouch.Weapon.Content.ExtraLife": {
 		23
 		25
 		25
-		1
 		0
 		0
-		0
+		-1
+		-1
 		-1
 		-1
 		-1
@@ -1191,7 +1191,7 @@
 		-1
 	}
 	"Pouch.Shield.Content.Life": {
-		5
+		-1
 		-1
 		-1
 		-1
@@ -1233,7 +1233,7 @@
 		-1
 	}
 	"Pouch.Shield.Content.ExtraLife": {
-		0
+		-1
 		-1
 		-1
 		-1
@@ -1279,7 +1279,7 @@
 		8
 	}
 	"Pouch.Bow.Content.Life": {
-		16
+		-1
 		-1
 		-1
 		-1
@@ -1309,11 +1309,11 @@
 		-1
 	}
 	"Pouch.Shield.EquipIndex": {
-		0
+		-1
 		-1
 	}
 	"Pouch.Shield.Content.Combined.Life": {
-		0
+		-1
 		-1
 		-1
 		-1
@@ -1599,7 +1599,7 @@
 		-1
 	}
 	"Pouch.Shield.Content.Effect.Value": {
-		0
+		-1
 		-1
 		-1
 		-1
@@ -2275,7 +2275,7 @@
 		-1
 	}
 	"Pouch.Bow.Content.Effect.Value": {
-		0
+		-1
 		-1
 		-1
 		-1
@@ -2318,8 +2318,8 @@
 		20
 		8
 		6
-		5
-		5
+		-1
+		-1
 		-1
 		-1
 		-1
@@ -3006,8 +3006,8 @@
 		-1
 		0
 		0
-		0
-		0
+		-1
+		-1
 		-1
 		-1
 		-1
@@ -3237,7 +3237,7 @@
 }
 "Float": {
 	"PlayerStatus.CookBuffTime": 0.0
-	"PlayerStatus.SavePosRadY": -0.4560427
+	"PlayerStatus.SavePosRadY": 2.202505
 	"PlayerStatus.Companion.Fire.RemainingEnergy": 100.0
 	"PlayerStatus.ExtraEnergy": 0.0
 	"PlayerStatus.TemporaryExtraStamina": 0.0
@@ -3948,14 +3948,14 @@
 }
 "Vector3": {
 	"World_PlayerPos": {
-		"x": -261.751953125
-		"y": 131.89556884765625
-		"z": 264.93505859375
+		"x": -213.5937042236328
+		"y": 126.9940185546875
+		"z": -438.0859375
 	}
 	"PlayerStatus.SavePos": {
-		"x": -263.2830810546875
-		"y": 131.88206481933594
-		"z": 256.4495849609375
+		"x": -210.61480712890625
+		"y": 126.90547180175781
+		"z": -440.3044738769531
 	}
 }
 "String64": {
@@ -5000,7 +5000,7 @@
 		""
 	}
 	"Pouch.Shield.Content.Name": {
-		"Weapon_Shield_004"
+		""
 		""
 		""
 		""
@@ -5064,7 +5064,7 @@
 		""
 	}
 	"Pouch.Bow.Content.Name": {
-		"Weapon_Bow_004"
+		""
 		""
 		""
 		""
@@ -5094,7 +5094,7 @@
 		""
 	}
 	"Pouch.Arrow.Content.Name": {
-		"NormalArrow"
+		""
 		""
 	}
 	"Pouch.Food.Content.Name": {
@@ -5285,7 +5285,7 @@
 		"AsbObj_SharpRock_A_S_01"
 		"AsbObj_SharpRock_A_S_01"
 		"AsbObj_SharpRock_A_S_01"
-		"AsbObj_RockParts_C_S_01"
+		""
 		""
 		""
 		""
@@ -5373,14 +5373,14 @@
 		"Animal_Insect_A"
 		"Item_Enemy_19"
 		"Item_Enemy_18"
-		"Item_Enemy_77"
-		"Item_Enemy_01"
-		"Item_Enemy_40"
-		"BeeHome"
-		"Animal_Insect_E"
-		"Item_Fruit_K"
-		"Item_Fruit_A"
-		"LightFruit"
+		""
+		""
+		""
+		""
+		""
+		""
+		""
+		""
 		""
 		""
 		""
@@ -5883,8 +5883,8 @@
 		"Weapon_Sword_124"
 		"Weapon_Spear_036"
 		"Weapon_Lsword_045"
-		"Weapon_Sword_019"
-		"Weapon_Sword_019"
+		""
+		""
 		""
 		""
 		""
@@ -5924,8 +5924,8 @@
 		""
 	}
 	"unk3294163435": {
-		"DeepHole_HyrulePlains"
-		""
+		"CastleTownMark"
+		"Dungeon136"
 		""
 		""
 		""

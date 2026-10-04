@@ -40,8 +40,6 @@
 	"InLargeDungeonThunder": false
 	"InLargeDungeonFire": false
 	"InLargeDungeonWater": false
-	"HavePlayedEvent.Dm_OP_0038": true
-	"HavePlayedEvent.Dm_OP_0037": true
 }
 "BoolArray": {
 	"Pouch.Shield.IsEnableShortcut": {
@@ -3955,9 +3953,9 @@
 		"z": 1753.0545654296875
 	}
 	"PlayerStatus.SavePos": {
-		"x": 362.98175048828125
-		"y": 2386.212646484375
-		"z": 1750.96826171875
+		"x": 362.9818420410156
+		"y": 2386.2197265625
+		"z": 1750.9681396484375
 	}
 }
 "String64": {

@@ -122,7 +122,7 @@
 	"HavePlayedEvent.Npc_SouthernVillageGambler_C0_T": false
 	"All_HugeEnemy_03": false
 	"HavePlayedEvent.Npc_BaseCamp_Gerudo004_D_N": false
-	"IsGetAnyway.FldObj_Pinecone_A_01": true
+	"IsGetAnyway.FldObj_Pinecone_A_01": false
 	"HavePlayedEvent.3838280933_3493841101_4138707132_D_N": false
 	"CustomHouse.IsBuildMode": false
 	"HavePlayedEvent.Npc_HighMountain031_D_T": false
@@ -255,7 +255,7 @@
 	"HavePlayedEvent.4225477239_482181313_302964096_D_N": false
 	"HavePlayedEvent.3334838558_482181313_4209778536_D_T": false
 	"HavePlayedEvent.Npc_OasisMilk_A_C0_T": false
-	"IsGet.Animal_Insect_E": true
+	"IsGet.Animal_Insect_E": false
 	"HavePlayedEvent.4053642028_2709217297_17116570_C0_T": false
 	"IsVisitLocation.KumPlateau": false
 	"SageOfFire_Defeat_BossMiddle": false
@@ -3858,7 +3858,7 @@
 	"IsAppearKorok.5467066318393172271": false
 	"IsGetAnyway.Armor_088_Head": false
 	"IsGetAnyway.Armor_169_Head": false
-	"IsGet.FldObj_Pinecone_A_01": true
+	"IsGet.FldObj_Pinecone_A_01": false
 	"SageOfSoul_ChangeActor_RightArm": false
 	"HavePlayedEvent.582294454_398436934_3490305876_C0_GN": false
 	"IsDefeatBossEnemy.18388369626843360386": false
@@ -4457,7 +4457,7 @@
 	"HavePlayedEvent.3926796608_398436934_2580250075_C0_N": false
 	"IsAppearKorok.103482330932651309": false
 	"IsVisitLocation.BironSnow": false
-	"IsGetAnyway.LightFruit": true
+	"IsGetAnyway.LightFruit": false
 	"IsVisitLocation.MapArea_HyruleForest": false
 	"IsVisitLocation.MoroLake": false
 	"HavePlayedEvent.LineTalk": false
@@ -4825,7 +4825,7 @@
 	"IsGetAnyway.Item_Cook_B_13": false
 	"HavePlayedEvent.2029659519_4289256035_1663483142_D_T": false
 	"HavePlayedEvent.Npc_Umii_Kakariko_Scholar_C_PlumGarden_Water": false
-	"HavePlayedEvent.Npc_Rito_Postman_015_D_N": true
+	"HavePlayedEvent.Npc_Rito_Postman_015_D_N": false
 	"HavePlayedEvent.Npc_HatenoVillage028_D_CT": false
 	"HavePlayedEvent.Npc_Kakariko007_ReturnHome": false
 	"ReadyMadeAutoBuilderDraft.Obj_AutoBuilderDraft_05.IsOwned": false
@@ -5895,7 +5895,7 @@
 	"IsPickupZombieStickWeapon.17184116751456775701": false
 	"SkyIsland0012_4TerminalActivated": false
 	"HavePlayedEvent.Tribune13Text_SecondVoice": false
-	"Npc_BaseCamp_Assistant_PictureBookOpen": true
+	"Npc_BaseCamp_Assistant_PictureBookOpen": false
 	"HaveTalked.Npc_Road_007": false
 	"HavePlayedEvent.TwnObj_DemonStatue_A_01_D_N": false
 	"HavePlayedEvent.Dm_OT_0012": false
@@ -6963,7 +6963,7 @@
 	"IsVisitLocation.RirimukuHighlands": false
 	"HavePlayedEvent.3197902972_1720190322_4084310424_C0_T": false
 	"IsAppearKorok.489075433659242378": false
-	"IsGet.Weapon_Sword_043": true
+	"IsGet.Weapon_Sword_043": false
 	"Npc_HatenoVillage025_Talk01": false
 	"IsVisitLocationArea_CaveEntrance.3657960895423460399": true
 	"RescueWell_HaveTalked_Jyoramu": false
@@ -7452,7 +7452,7 @@
 	"HavePlayedEvent.Npc_Goron030_C0_T": false
 	"IsGet.Item_Cook_D_08": false
 	"IsGet.Item_RoastFish_09": false
-	"HavePlayedEvent.1657026647_398436934_4198485396_D_GT": true
+	"HavePlayedEvent.1657026647_398436934_4198485396_D_GT": false
 	"PictureBookData.Enemy_Toby_Junior.IsNew": false
 	"IsVisitLocation.MinusField_MizemakuMt": false
 	"HavePlayedEvent.Npc_oasis020_D_T": false
@@ -7942,7 +7942,7 @@
 	"IsDefeatBossEnemy.13478036497897348683": false
 	"HavePlayedEvent.1974142911_580975620_2778979569_D_T": false
 	"IsGetAnyway.Armor_1108_Upper": false
-	"HavePlayedEvent.1657026647_398436934_2981139131_C0_GT": true
+	"HavePlayedEvent.1657026647_398436934_2981139131_C0_GT": false
 	"HaveTalked.Npc_oasis026": false
 	"HavePlayedEvent.2226611435_398436934_2110795853_D_T": false
 	"HavePlayedEvent.Npc_HorseBuyer_04_D_N": false
@@ -8002,7 +8002,7 @@
 	"IsVisitLocation.GerudoPyramidDungeon_7": false
 	"BirdManContest_HaveTalked": false
 	"LargeDungeonFire_Turntable_02_Moved": false
-	"IsGetAnyway.Animal_Insect_E": true
+	"IsGetAnyway.Animal_Insect_E": false
 	"PictureBookData.Item_Enemy_100.IsNew": false
 	"HavePlayedEvent.Npc_HatenoVillage023_AbsenceTalkEvent": false
 	"Khan_TouchBowArrow_1st": false
@@ -8996,7 +8996,7 @@
 	"HavePlayedEvent.Npc_RitoHatago004_DC0_NN": false
 	"Tribune10_GoalTrial1": false
 	"HavePlayedEvent.349197929_398436934_430403972_D_N": false
-	"IsGetAnyway.Weapon_Sword_043": true
+	"IsGetAnyway.Weapon_Sword_043": false
 	"ReadyMadeAutoBuilderDraft.Obj_AutoBuilderDraftAssassin_31.IsFavorite": false
 	"HavePlayedEvent.2706413061_3031435601_3640778505_D_N": false
 	"HaveTalked.Npc_KarakaraRoad_AncientAssistant": false
@@ -9478,7 +9478,7 @@
 	"Fairy3_HaveTalked_AtRiverSide": false
 	"SageOfZora_TerraceYonaLightDelete": false
 	"IsVisitLocation.Cave_GerudoDesert_0040": false
-	"HavePlayedEvent.Kakariko_Scholar_F_TouchMiasma": true
+	"HavePlayedEvent.Kakariko_Scholar_F_TouchMiasma": false
 	"HavePlayedEvent.Orchestra04_Arrival": false
 	"HavePlayedEvent.Npc_Raul_03_D_T": true
 	"IsVisitLocationArea_CaveEntrance.15195878330545621010": false
@@ -9527,7 +9527,7 @@
 	"HavePlayedEvent.Mercenary_Hateru_EquipmentGetEvent": false
 	"TempName.Setsugen1": false
 	"IsVisitLocationArea_CaveEntrance.13346964772528420448": false
-	"GOToTheCastleOfHyrule_AfterMove": true
+	"GOToTheCastleOfHyrule_AfterMove": false
 	"HavePlayedEvent.3351276326_3306871375_88058689_D_T": false
 	"IsGetAnyway.Item_Enemy_150": false
 	"RecipeCard.Content.Item_Cook_A_09.IsNew": false
@@ -10029,7 +10029,7 @@
 	"IsDefeatBossEnemy.12377670104334831108": false
 	"HavePlayedEvent.Dm_GE_0037": false
 	"HavePlayedEvent.2047400228_398436934_3023323155_D_N": false
-	"IsGetAnyway.BeeHome": true
+	"IsGetAnyway.BeeHome": false
 	"IsTreasureBoxUnlock.8878404391725717087": false
 	"IsGet.Armor_179_Lower": false
 	"Npc_SouthernVillage001_TalkBranch3": false
@@ -10661,7 +10661,7 @@
 	"HavePlayedEvent.Npc_oasis015_D_T": false
 	"LargeDungeonWater_MoveBall": false
 	"IsAppearKorok.17684465643323933958": false
-	"BaseCamp_Give_LightBall_Small": true
+	"BaseCamp_Give_LightBall_Small": false
 	"OwnedCustomizableHorseTack_Saddle.GameRomHorseSaddle_00": false
 	"HavePlayedEvent.Npc_Zora026_C3_GT": false
 	"HavePlayedEvent.Npc_HatenoVillage023_D_T": false
@@ -10733,7 +10733,7 @@
 	"HavePlayedEvent.Npc_Zonau_Golem_Servant_Minus0007_D_T": false
 	"RecipeCard.Content.Item_Cook_G_03.IsNew": true
 	"PictureBookData.Item_Enemy_191.IsNew": false
-	"World_IsBloodyMoonDay": false
+	"World_IsBloodyMoonDay": true
 	"IsGet.Item_Roast_53": false
 	"IsGetAnyway.Armor_005_Lower": false
 	"HavePlayedEvent.subchallnpc000_C1_T": false
@@ -11190,7 +11190,7 @@
 	"IsGet.Armor_1053_Lower": false
 	"IsGetAnyway.Weapon_Bow_027": false
 	"HavePlayedEvent.Npc_BaseCamp_Assistant_C3_T": false
-	"HaveTalked.Npc_HorseBuyer_03": true
+	"HaveTalked.Npc_HorseBuyer_03": false
 	"OwnedParasailPattern.Pattern29": false
 	"HavePlayedEvent.Npc_SmallOasis006_D_N": false
 	"IsGetSkyObjZonauRobotBackground.14472140935911218904": false
@@ -11286,7 +11286,7 @@
 	"IsGet.Weapon_Lsword_161": false
 	"IsTreasureBoxOpen.4614031282500350460": false
 	"HavePlayedEvent.Npc_Zora026_C1_N": false
-	"HavePlayedEvent.DmF_SY_WorldReset": true
+	"HavePlayedEvent.DmF_SY_WorldReset": false
 	"IsAppearKorok.8814604911388283272": false
 	"IsGet.SpObj_LightMirror_Capsule_A_01": false
 	"IsPickupZombieStickWeapon.12394390414374727037": false
@@ -12447,7 +12447,7 @@
 	"IsVisitLocation.TeguriPlain": false
 	"HavePlayedEvent.Npc_SouthernVillage001_D_T": false
 	"HavePlayedEvent.1540625483_2392219354_2854426296_D_T": false
-	"HavePlayedEvent.DmT_SY_BloodyMoonFirst_PreRender": true
+	"HavePlayedEvent.DmT_SY_BloodyMoonFirst_PreRender": false
 	"HavePlayedEvent.Npc_Goron009_C0_T": false
 	"IsGetAnyway.Item_PlantGet_O": false
 	"IsVisitLocation.CentralExchange": false
@@ -12647,7 +12647,7 @@
 	"Npc_HyruleDepthHatago003_Talk01": false
 	"CheckPoint_IsDisplayFoliage.CheckPoint051": false
 	"HavePlayedEvent.Npc_Assassin_001_D_T": false
-	"MainChallenge_1stSagePulhaPosChange": true
+	"MainChallenge_1stSagePulhaPosChange": false
 	"HavePlayedEvent.Npc_Goron_Cafe03_C0_T": false
 	"IsGetAnyway.Armor_178_Head": false
 	"HavePlayedEvent.Npc_Goron034_D_T": false
@@ -12858,7 +12858,7 @@
 	"MercenaryChallenge_Hebra_Broken": false
 	"PictureBookData.Animal_Elk_A.IsNew": false
 	"HaveTalked.Npc_Goron032": false
-	"IsGet.Weapon_Shield_004": true
+	"IsGet.Weapon_Shield_004": false
 	"Npc_Zora001_First02": false
 	"IsVisitLocation.Cave_Lanayru_0036": false
 	"IsVisitLocation.LargeDungeonThunder_7F": false
@@ -13178,7 +13178,7 @@
 	"HavePlayedEvent.DefeatGanondorf_AppearGoronBoss": false
 	"Npc_TabantaBridgeHatago004_Grass": false
 	"IsVisitLocation.CheckPoint039": false
-	"HavePlayedEvent.Npc_HorseBuyer_03_D_T": true
+	"HavePlayedEvent.Npc_HorseBuyer_03_D_T": false
 	"IsVisitLocation.MinusField_KazuryuLake": false
 	"Orchestra03_AlreadyRequestedFlute": false
 	"HavePlayedEvent.1606420714_3949112793_1663483142_D_N": false
@@ -13221,7 +13221,7 @@
 	"HavePlayedEvent.4115239192_398436934_2192448462_C0_T": false
 	"SageOfFire_Open_Crater": false
 	"HavePlayedEvent.1533188385_398436934_1760322208_D_N": false
-	"IsGet.LightFruit": true
+	"IsGet.LightFruit": false
 	"IsGetAnyway.Item_Cook_R_04": false
 	"SageOfGerudo_PyramidEntranceNest2": false
 	"Orchestra04_TalkAboutOrchestra": false
@@ -13860,7 +13860,7 @@
 	"PictureBookData.Enemy_LikeLike_Crack.IsNew": false
 	"OwnedParasailPattern.Pattern14": false
 	"IsAppear_HorseGod": false
-	"HaveTalked.Npc_Umii_Kakariko_Scholar_F": true
+	"HaveTalked.Npc_Umii_Kakariko_Scholar_F": false
 	"IsAppearKorok.4321640962962584010": false
 	"IsVisitLocationArea_CaveEntrance.2291495962666291037": false
 	"HavePlayedEvent.Npc_Zora004_D_T": false
@@ -14052,7 +14052,7 @@
 	"HavePlayedEvent.2706413061_398436934_3640778505_D_N": false
 	"InstantTips_IsEnd.EnableWarpLargeDungeonWater": false
 	"HavePlayedEvent.4115239192_1088694121_2711768683_D_T": false
-	"HavePlayedEvent.Npc_HorseBuyer_03_D_N": true
+	"HavePlayedEvent.Npc_HorseBuyer_03_D_N": false
 	"IsGetReward_BluePrint7": false
 	"IsTreasureBoxOpen.15509122079762303891": false
 	"IsPickupZombieStickWeapon.4957517795439214601": false
@@ -14136,7 +14136,7 @@
 	"IsGetAnyway.Armor_078_Upper": false
 	"IsGetAnyway.Armor_1008_Lower": false
 	"HavePlayedEvent.2473771585_398436934_328873737_DC1_TT": false
-	"IsGetAnyway.Weapon_Shield_004": true
+	"IsGetAnyway.Weapon_Shield_004": false
 	"RecipeCard.Content.Item_Cook_R_05.IsNew": false
 	"HavePlayedEvent.AssassinSecretBase_RoomClose2": false
 	"HavePlayedEvent.3197902972_398436934_4084310424_D_T": false
@@ -16389,7 +16389,7 @@
 	"HavePlayedEvent.1936831269_3031435601_2814527152_D_T": false
 	"HavePlayedEvent.Npc_Assassin_021_D_T": false
 	"HaveTalked.Npc_Lanayru004": false
-	"IsVisitLocation.DeepHole_HyrulePlains": true
+	"IsVisitLocation.DeepHole_HyrulePlains": false
 	"RecipeCard.Content.Item_Cook_S_02.IsCooked": false
 	"IsTreasureBoxUnlock.4955059399291122995": false
 	"HavePlayedEvent.3297224574_1542173066_2346188501_D_T": false
@@ -16444,7 +16444,7 @@
 	"HavePlayedEvent.Npc_HorseBuyer_04_D_T": false
 	"IsGetAnyway.Item_Cook_I_01": false
 	"HavePlayedEvent.1429827073_1425394247_724132422_D_N": false
-	"HavePlayedEvent.DmT_SY_BloodyMoonDarkZelda_PreRender": true
+	"HavePlayedEvent.DmT_SY_BloodyMoonDarkZelda_PreRender": false
 	"IsVisitLocationArea_CaveEntrance.15007569538535704822": false
 	"PictureBookData.Weapon_Lsword_136.IsNew": false
 	"NewsPaper_Talked_Weapon": false
@@ -17615,7 +17615,7 @@
 	"IsGet.Armor_200_Upper": false
 	"IsVisitLocation.ExpaTrees": false
 	"BlindRuins_ReportWindTreasure": false
-	"HavePlayedEvent.GetCamera_Ready": true
+	"HavePlayedEvent.GetCamera_Ready": false
 	"SageOfWind_IsGetHeartUtuwa": false
 	"IsGet.Armor_012_Lower": false
 	"IsVisitLocation.WholeOfHyrule": false
@@ -18201,7 +18201,7 @@
 	"KokkoComp_HorseInnChallenge005": false
 	"HaveTalked.Npc_NushiShop": false
 	"IsVisitLocation.LargeDungeonSoul": false
-	"IsVisitLocationArea_CaveEntrance.12420116610575098418": true
+	"IsVisitLocationArea_CaveEntrance.12420116610575098418": false
 	"HavePlayedEvent.3197902972_1720190322_624258406_C0_T": false
 	"IsAppearKorok.5314389776696148509": false
 	"HavePlayedEvent.2473771585_3031435601_3456829547_D_T": false
@@ -18321,7 +18321,7 @@
 	"HavePlayedEvent.Npc_OasisStudent_C_D_N": false
 	"IsTalkedGolem_BluePrint": false
 	"HavePlayedEvent.Npc_Bottle_Mes001_C1_T": false
-	"IsGet.BeeHome": true
+	"IsGet.BeeHome": false
 	"NPC_oasis004_fr04_FirstTalk_AfterPos": true
 	"HavePlayedEvent.Npc_BaseCamp_AncientAssistant001_C2_GN": false
 	"HaveTalked.Npc_RiverSideHatago001": false
@@ -18628,7 +18628,7 @@
 	"HavePlayedEvent.946522066_3585737565_1228218993_D_T": false
 	"HavePlayedEvent.3798766784_4289256035_1616547511_D_CN": false
 	"IsGetAnyway.Armor_221_Head": false
-	"BaseCamp_Give_ArrowBundle_A_01": true
+	"BaseCamp_Give_ArrowBundle_A_01": false
 	"HavePlayedEvent.946522066_3585737565_1766872743_D_T": false
 	"Hateno_Cheese_TalkToGirl": false
 	"RecipeCard.Content.Item_Cook_P_01.IsCooked": false
@@ -19786,7 +19786,7 @@
 	"HavePlayedEvent.GiantHorse_ParticipateEvent2_HorseGiantPrequel": false
 	"OwnedParasailPattern.Pattern03": false
 	"Connect_FirstIsland_Minus3rdLight": false
-	"HavePlayedEvent.1657026647_398436934_4198485396_D_GN": true
+	"HavePlayedEvent.1657026647_398436934_4198485396_D_GN": false
 	"HavePlayedEvent.Npc_BaseCamp_Zora002_C3_N": false
 	"OwnedParasailPattern.Pattern27": false
 	"IsVisitLocation.CheckPoint023": false
@@ -19889,7 +19889,7 @@
 	"HavePlayedEvent.3997478371_1978998227_3023323155_D_N": false
 	"IsGetAnyway.Armor_005_Upper": false
 	"HavePlayedEvent.Tribune05_CutRope": false
-	"CharaDirectory_IsInstantTipsDisplayed.Npc_BaseCamp_Assistant": true
+	"CharaDirectory_IsInstantTipsDisplayed.Npc_BaseCamp_Assistant": false
 	"IsAppearKorok.16030481355004530881": false
 	"IsVisitLocation.EnRiver": false
 	"PictureBookData.Weapon_Sword_021.IsNew": false
@@ -327686,7 +327686,7 @@
 	"EnemyBattleData.Enemy_Zonau_BlockMaster_Junior_Beginning.JustAvoidCount": 0
 	"Shop_SoldNum.TwnObj_DemonStatue_C_04.Armor_1141_Head": 0
 	"Shop_SoldNum.TwnObj_DemonStatue_C_04.Armor_176_Head": 0
-	"EnemyBattleData.Enemy_Keese.DefeatedNoDamageCount": 23
+	"EnemyBattleData.Enemy_Keese.DefeatedNoDamageCount": 20
 	"EnemyBattleData.Enemy_LikeLike_Crack.DefeatedNoDamageCount": 0
 	"EquipTime.Armor_104_Upper": 0
 	"RecycleBoxData.18046809928678434263.EjectNum.SpObj_GolemHead_Capsule_A_01": 0
@@ -327905,7 +327905,7 @@
 	"EquipTime.Armor_1143_Upper": 0
 	"RecycleBoxData.3335311452256716214.EjectNum.SpObj_FastWheel_Capsule_A_01": 0
 	"EnemyBattleData.Enemy_Golem_Ice.HeadShotCount": 0
-	"EquipmentDeathCount.Weapon_Sword_044": 1
+	"EquipmentDeathCount.Weapon_Sword_044": 0
 	"EquipTime.Armor_028_Head": 0
 	"EquipTime.Armor_210_Upper": 0
 	"Shop_SoldNum.Npc_HatenoVillage019_SisterA.Armor_1051_Upper": 0
@@ -328227,7 +328227,7 @@
 	"EnemyBattleData.Enemy_Zonau_BlockMaster_Senior.DefeatedNoDamageCount": 0
 	"EquipmentPouchTime.Armor_1038_Lower": 0
 	"EnemyBattleData.Enemy_Lizalfos_Guard_Middle_LongVisibility.HeadShotCount": 0
-	"EnemyBattleData.Enemy_Chuchu_Junior.DefeatedNoDamageCount": 21
+	"EnemyBattleData.Enemy_Chuchu_Junior.DefeatedNoDamageCount": 15
 	"EquipmentPouchTime.Armor_152_Lower": 0
 	"EquipTime.Armor_066_Head": 0
 	"EquipmentPouchTime.Armor_009_Lower": 0
@@ -328609,7 +328609,7 @@
 	"EquipTime.Armor_098_Head": 0
 	"Shop_SoldNum.TwnObj_DemonStatue_C_02.Armor_210_Lower": 0
 	"BokoblinBasketItemNum.11108337925072697767": -1
-	"DefeatedEnemyNum.Enemy_Keese": 24
+	"DefeatedEnemyNum.Enemy_Keese": 21
 	"EquipTime.Armor_067_Head": 0
 	"Shop_SoldNum.Npc_Zonau_Golem_Servant_Minus0014.Energy_Material_01": 0
 	"Shop_SoldNum.TwnObj_DemonStatue_C_04.Armor_180_Lower": 0
@@ -329376,7 +329376,7 @@
 	"RecycleBoxData.15575356905878991466.EjectNum.SpObj_FloatingStone_Capsule_A_01": 0
 	"EquipmentPouchTime.Armor_1008_Upper": 0
 	"Shop_SoldNum.Npc_TripMaster_07.Animal_Insect_A": 0
-	"World_CurrentMinute": 4
+	"World_CurrentMinute": 10
 	"EquipmentPouchTime.Armor_160_Head": 0
 	"EnemyBattleData.Enemy_Giant_Bone_AllDay.DefeatedNoDamageCount": 0
 	"EnemyBattleData.Enemy_Chuchu_Ice_Senior.JustAvoidCount": 0
@@ -329836,7 +329836,7 @@
 	"BokoblinBasketItemNum.6161333089499055782": -1
 	"RealEnemyTreantAppleCount.1228060084911543496": 1
 	"BokoblinBasketItemNum.1900773653320273741": -1
-	"DefeatedEnemyNum.Enemy_Bokoblin_Bone_Junior": 5
+	"DefeatedEnemyNum.Enemy_Bokoblin_Bone_Junior": 3
 	"Npc_Goddess_UtuwaSum": 0
 	"EquipmentPouchTime.Armor_017_Lower": 0
 	"CustomHouseTakeOutNum.TypeQ": 0
@@ -330191,7 +330191,7 @@
 	"EquipmentDeathCount.Weapon_Bow_002": 0
 	"DefeatedEnemyNum.Enemy_Zombie_Boss_Junior": 0
 	"BokoblinBasketItemNum.8223137488596966556": -1
-	"EnemyBattleData.Enemy_Bokoblin_Bone_Junior.DefeatedNoDamageCount": 2
+	"EnemyBattleData.Enemy_Bokoblin_Bone_Junior.DefeatedNoDamageCount": 0
 	"EquipTime.Armor_1091_Upper": 0
 	"EquipTime.Armor_037_Upper": 0
 	"EquipTime.Armor_1301_Head": 0
@@ -330570,7 +330570,7 @@
 	"RecipeCard.Content.Item_Cook_G_05.LatestLogIndex": -1
 	"LastWildHorse.Toughness": 0
 	"EquipmentPouchTime.Armor_218_Head": 0
-	"World_CurrentHour": 5
+	"World_CurrentHour": 18
 	"Shop_SoldNum.Npc_goron002.Item_Ore_H": 0
 	"RealEnemyTreantAppleCount.11811736516685174096": 1
 	"Shop_SoldNum.Npc_oasis002.Obj_ArrowBundle_A_01": 0
@@ -330776,7 +330776,7 @@
 	"EquipTime.Armor_1010_Lower": 0
 	"SecretBase_MiniGame_BestRecord": 0
 	"EnemyBattleData.Enemy_Golem_Middle.HeadShotCount": 0
-	"BokoblinBasketItemNum.5821412891634407816": 0
+	"BokoblinBasketItemNum.5821412891634407816": -1
 	"EnemyBattleData.Enemy_Lizalfos_Guard_Junior_LongVisibility.GuardJustCount": 0
 	"EquipmentPouchTime.Armor_067_Head": 0
 	"EquipmentPouchTime.Armor_1108_Upper": 0
@@ -330985,7 +330985,7 @@
 	"EquipmentPouchTime.Armor_173_Head": 0
 	"EquipTime.Armor_1098_Lower": 0
 	"EnemyBattleData.Enemy_Zombie_Boss_Junior.GuardJustCount": 0
-	"EquipmentDeathCount.Weapon_Sword_103": 1
+	"EquipmentDeathCount.Weapon_Sword_103": 0
 	"BokoblinBasketItemNum.3781716319393749104": -1
 	"EquipmentPouchTime.Armor_1143_Upper": 0
 	"Shop_SoldNum.TwnObj_DemonStatue_C_04.Armor_200_Head": 0
@@ -330997,7 +330997,7 @@
 	"EnemyBattleData.Enemy_Ganondorf_Miasma.JustAvoidCount": 0
 	"BokoblinBasketItemNum.16539198795805850573": -1
 	"EquipmentDeathCount.Weapon_Bow_036": 0
-	"World_CurrentDays": 0
+	"World_CurrentDays": 7
 	"EquipTime.Weapon_Shield_035": 0
 	"EnemyBattleData.Enemy_Golem_Ice_KeyCrystal.GuardJustCount": 0
 	"EnemyBattleData.Enemy_Zombie_Boss_Junior_ForDungeonBossGerudoBattle.HeadShotCount": 0
@@ -331264,7 +331264,7 @@
 	"Shop_SoldNum.TwnObj_DemonStatue_C_03.Armor_210_Head": 0
 	"EquipmentDeathCount.Weapon_Bow_116": 0
 	"EquipmentPouchTime.Weapon_Spear_163": 0
-	"DefeatedEnemyNum.Enemy_Bokoblin_Bone_Junior_Head": 5
+	"DefeatedEnemyNum.Enemy_Bokoblin_Bone_Junior_Head": 3
 	"EquipmentPouchTime.Armor_096_Upper": 0
 	"RecipeCard.Content.Item_Cook_G_16.LatestLogIndex": -1
 	"BokoblinBasketItemNum.2505637427476936872": -1
@@ -331840,7 +331840,7 @@
 	"BokoblinBasketItemNum.12730782886081068405": -1
 	"EquipTime.Armor_149_Upper": 0
 	"RecipeCard.Content.Item_Roast_45.LatestLogIndex": -1
-	"DefeatedEnemyNum.Enemy_Chuchu_Junior": 21
+	"DefeatedEnemyNum.Enemy_Chuchu_Junior": 15
 	"EquipTime.Weapon_Spear_021": 0
 	"RecipeCard.Content.Item_Cook_R_06.LatestLogIndex": -1
 	"Shop_SoldNum.TwnObj_DemonStatue_C_06.Armor_180_Head": 0
@@ -332014,7 +332014,7 @@
 	"EquipmentDeathCount.Weapon_Spear_Rod_Base": 0
 	"BokoblinBasketItemNum.6283082848374030211": -1
 	"RecipeCard.Content.Item_Cook_J_02.LatestLogIndex": -1
-	"EnemyBattleData.Enemy_Bokoblin_Bone_Junior_Head.DefeatedNoDamageCount": 5
+	"EnemyBattleData.Enemy_Bokoblin_Bone_Junior_Head.DefeatedNoDamageCount": 3
 	"EnemyBattleData.Enemy_Lynel_Boss.GuardJustCount": 0
 	"EquipmentPouchTime.Armor_1145_Head": 0
 	"EquipTime.Armor_155_Lower": 0
@@ -334434,6 +334434,12 @@
 		-1
 	}
 	"World_WeatherForecast": {
+		0
+		0
+		0
+		0
+		0
+		0
 		1
 		0
 		1
@@ -334447,14 +334453,14 @@
 		2
 		1
 		0
-		2
+		0
+		0
+		1
+		1
 		1
 		0
 		0
 		0
-		0
-		0
-		0
 		1
 		0
 		0
@@ -334465,11 +334471,11 @@
 		0
 		1
 		2
-		2
+		3
+		1
 		0
-		1
+		3
 		2
-		1
 		2
 		1
 		3
@@ -334482,73 +334488,41 @@
 		2
 		3
 		2
-		3
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
 		2
 		0
+		3
+		2
+		2
+		3
+		0
+		3
+		0
+		2
+		0
+		0
+		3
+		3
+		3
+		2
 		1
-		2
-		3
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		1
-		0
-		0
-		0
-		3
-		0
-		2
-		0
-		0
-		3
-		3
-		3
-		2
-		1
-		1
-		2
-		3
-		2
-		2
-		3
-		3
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
 		1
 		0
 		0
@@ -334556,6 +334530,32 @@
 		0
 		0
 		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		1
 		0
 		0
 		0
@@ -334581,6 +334581,12 @@
 		1
 		7
 		1
+		0
+		2
+		3
+		1
+		7
+		1
 		2
 		1
 		0
@@ -334590,12 +334596,12 @@
 		1
 		1
 		0
-		1
+		2
 		0
 		0
 		1
 		1
-		1
+		0
 		1
 		1
 		0
@@ -334609,11 +334615,11 @@
 		0
 		1
 		0
-		0
+		2
 		2
 		0
-		0
-		0
+		1
+		1
 		0
 		0
 		0
@@ -334626,12 +334632,12 @@
 		1
 		2
 		3
+		1
+		1
 		0
 		1
 		0
-		0
-		1
-		0
+		2
 		7
 		0
 		1
@@ -334644,354 +334650,24 @@
 		2
 		7
 		3
-		1
-		1
-		1
+		2
+		0
 		3
-		3
-		1
+		0
+		0
+		0
 		2
 		0
 		0
 		1
-		3
-		2
-		0
-		0
-		0
-		2
 		3
 		2
 		0
 		0
 		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		2
-		2
-		1
-		0
-		1
-		7
-		0
-		1
-		0
-		1
-		1
-		1
-		3
-		1
-		0
-		1
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		2
-		1
-		2
-		3
-		0
-		1
 		2
 		3
 		2
-		3
-		2
-		2
-		3
-		3
-		2
-		1
-		2
-		1
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		10
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
-		0
 		0
 		0
 		0
@@ -335031,18 +334707,343 @@
 		7
 		0
 		0
+		1
 		0
 		0
+		2
+		2
+		1
+		0
+		1
+		7
 		0
 		1
 		0
-		3
+		1
+		1
+		1
 		0
-		7
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
 		0
 		0
 		3
 		2
+		1
+		0
+		3
+		2
+		2
+		1
+		2
+		3
+		0
+		1
+		2
+		3
+		2
+		3
+		2
+		2
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		10
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		0
+		1
+		0
+		7
+		0
+		0
+		0
+		0
+		0
+		1
+		0
+		3
+		0
 		7
 		0
 		0
@@ -335076,10 +335077,6 @@
 		0
 		0
 		0
-		0
-		0
-		0
-		0
 		1
 		0
 		0
@@ -335136,6 +335133,9 @@
 		0
 		0
 		0
+		0
+		0
+		0
 		10
 		10
 		10
@@ -335190,6 +335190,12 @@
 		7
 		7
 		7
+		0
+		0
+		0
+		0
+		0
+		0
 		0
 		0
 		0
@@ -335220,12 +335226,6 @@
 		0
 		0
 		0
-		0
-		0
-		0
-		0
-		0
-		0
 		10
 		10
 		10
@@ -335244,8 +335244,6 @@
 		10
 		10
 		10
-		0
-		0
 		0
 		0
 		0
@@ -335267,17 +335265,19 @@
 		1
 		2
 		2
+		2
+		0
 		0
 		0
 		0
 		1
 		2
-		0
 		2
+		0
+		0
+		0
 		1
 		2
-		0
-		0
 		0
 		2
 		0
@@ -342147,13 +342147,13 @@
 	"MiniGame_TimerValueLimit": 0.0
 	"PlayerStatus.Companion.Soul.RemainingEnergy": 100.0
 	"SageOfGerudo_SliderBlockPos4": 0.0
-	"unk1183977243": 24.481033
+	"unk1183977243": 46.257008
 	"BallBring_MiniGame_BestScore": 0.0
 	"PlayerStatus.ExtraStamina": 0.0
 	"SageOfGerudo_SliderBlockPos2": 0.0
 	"BallBring_MiniGame_CourseB_BestScore": 0.0
 	"Goron_MiniGame_02_BestTime": 0.0
-	"unk2274029120": 32.28125
+	"unk2274029120": 54.05078
 	"ShieldSurfing_TimeLimit": 0.0
 	"unk3284388302": 0.0
 	"Last_Ridden_Horse_RotY": 0.0
@@ -342647,7 +342647,7 @@
 	"DungeonState.Dungeon018": 1989678108
 	"ChallengeLogState_Challenge.CreateArmor": -1225859575
 	"ChallengeLogState_Challenge.MercenaryChallenge_HyrulePlain": -1225859575
-	"Step_GetCamera": -1267253087
+	"Step_GetCamera": 398436934
 	"KeyCrystalDungeonState.Dungeon068": 77815154
 	"PictureBookData.Animal_Pigeon_B.State": -1919507771
 	"ChallengeLogState_Challenge.IceMaking": -1225859575
@@ -343688,7 +343688,7 @@
 	"ArrivalPointState.CheckPoint094": -1970748368
 	"KorokCarryProgress.14086010442264569915": -2027307099
 	"KorokCarryProgress.702982911163221302": -2027307099
-	"ChallengeLogState_Challenge.GetCamera": 494906868
+	"ChallengeLogState_Challenge.GetCamera": -1225859575
 	"KorokCarryProgress.18153127729825633248": -2027307099
 	"PictureBookData.Enemy_Bokoblin_Senior.State": -1919507771
 	"PictureBookData.Weapon_Shield_003.State": -1919507771
@@ -345948,7 +345948,7 @@
 		-1225859575
 	}
 	"MapData.IconData.MapPinData.Type": {
-		1847234945
+		2117934662
 		2117934662
 		2117934662
 		2117934662
@@ -347663,8 +347663,8 @@
 			"y": 1138.6275634765625
 		}
 		{
-			"x": -253.95297241210938
-			"y": -145.38641357421875
+			"x": -297.5064697265625
+			"y": -133.70159912109375
 		}
 		{
 			"x": 0.0
@@ -348862,9 +348862,9 @@
 }
 "Vector3": {
 	"Dragon_Electric_Pos": {
-		"x": -1460.1734619140625
-		"y": 399.79339599609375
-		"z": 2536.023681640625
+		"x": -671.27294921875
+		"y": -268.3397521972656
+		"z": 3117.3759765625
 	}
 	"PlayerStatus.Companion.Electric.CurrentPos": {
 		"x": 0.0
@@ -348877,9 +348877,9 @@
 		"z": 32.31071853637695
 	}
 	"World_ShootingStarPosition": {
-		"x": 0.0
-		"y": 0.0
-		"z": 0.0
+		"x": 448.4752502441406
+		"y": 131.67926025390625
+		"z": 120.08804321289062
 	}
 	"MapData.IconData.FrontierPoint.Pos": {
 		"x": 0.0
@@ -348887,14 +348887,14 @@
 		"z": 0.0
 	}
 	"Dragon_Fire_Pos": {
-		"x": 2168.279541015625
-		"y": 659.622802734375
-		"z": -3311.294189453125
+		"x": 4391.9833984375
+		"y": -380.0110778808594
+		"z": -3267.210205078125
 	}
 	"Dragon_Ice_Pos": {
-		"x": 2958.392822265625
-		"y": -330.46051025390625
-		"z": 598.4718627929688
+		"x": 4013.279296875
+		"y": 444.24072265625
+		"z": 1903.5703125
 	}
 	"PlayerStatus.Companion.Soul.CurrentPos": {
 		"x": 0.0
@@ -348907,9 +348907,9 @@
 		"z": 1755.7135009765625
 	}
 	"unk1791125611": {
-		"x": 0.0
-		"y": 0.0
-		"z": 0.0
+		"x": 0.5279014706611633
+		"y": -0.7996879816055298
+		"z": 0.286040723323822
 	}
 	"OpeningZeldaSpawnRot": {
 		"x": 0.0
@@ -348917,9 +348917,9 @@
 		"z": 1.0
 	}
 	"Dragon_Light_Dir": {
-		"x": -0.8480522632598877
-		"y": 0.10392922163009644
-		"z": -0.5196210741996765
+		"x": -0.5224477052688599
+		"y": 0.10079813748598099
+		"z": -0.8466927409172058
 	}
 	"Horse_Pos": {
 		"x": 0.0
@@ -348937,9 +348937,9 @@
 		"z": 0.0
 	}
 	"Dragon_Ice_Dir": {
-		"x": 0.6858447194099426
-		"y": -0.014774280600249767
-		"z": 0.7275978922843933
+		"x": -0.2810171842575073
+		"y": -0.38666996359825134
+		"z": 0.8783596754074097
 	}
 	"PlayerStatus.Companion.Water.CurrentPos": {
 		"x": 0.0
@@ -348947,9 +348947,9 @@
 		"z": 0.0
 	}
 	"Dragon_Fire_Dir": {
-		"x": -0.9824998378753662
-		"y": -0.09943428635597229
-		"z": -0.15750360488891602
+		"x": 0.5256443023681641
+		"y": -0.11321103572845459
+		"z": 0.843137800693512
 	}
 	"PlayerStatus.SavePos": {
 		"x": 343.9295654296875
@@ -348957,14 +348957,14 @@
 		"z": 1755.7135009765625
 	}
 	"Dragon_Electric_Dir": {
-		"x": 0.9954890608787537
-		"y": -0.0019371326779946685
-		"z": 0.09485828876495361
+		"x": -0.9783797264099121
+		"y": -0.2005235254764557
+		"z": 0.05063295364379883
 	}
 	"Dragon_Light_Pos_For_Map": {
-		"x": -1959.2882080078125
-		"y": 2126.820556640625
-		"z": -1634.1026611328125
+		"x": -3559.17041015625
+		"y": 2323.9326171875
+		"z": 1533.625244140625
 	}
 	"PlayerStatus.Companion.Wind.CurrentPos": {
 		"x": 0.0
@@ -349725,9 +349725,9 @@
 	}
 	"MapData.IconData.MapPinData.Pos": {
 		{
-			"x": -238.07736206054688
-			"y": 137.5670928955078
-			"z": 375.4930419921875
+			"x": 536.0352172851562
+			"y": 1583.5745849609375
+			"z": 916.1867065429688
 		}
 		{
 			"x": 246.64370727539062
@@ -359040,7 +359040,7 @@
 	"TempName.EnemyAssassin_01": 0
 	"TempName.ZonauMagic_06": 0
 	"MinusFieldGhostRandomSeed.1440248769139327361": 0
-	"TempName.Horse_00": 1
+	"TempName.Horse_00": 0
 	"MinusFieldGhostRandomSeed.14462482842893244764": 0
 	"MinusFieldGhostRandomSeed.1658631708925071179": 0
 	"MinusFieldGhostRandomSeed.17812737647539709805": 0
@@ -359245,7 +359245,7 @@
 	"MinusFieldGhostRandomSeed.18373769141841440011": 0
 	"Complete_TreasureHunt_kokiri": 0
 	"TempName.EnemyGibdo_00": 0
-	"TempName.Map_01": 0
+	"TempName.Map_01": 1
 	"MinusFieldGhostRandomSeed.17473348277992075872": 0
 	"MinusFieldGhostRandomSeed.7181513685167466403": 0
 	"MinusFieldGhostRandomSeed.8150797666012950448": 0
@@ -359374,7 +359374,7 @@
 	"MinusFieldGhostRandomSeed.7327955411324704703": 0
 	"MinusFieldGhostRandomSeed.9020299017494335376": 0
 	"TempName.Material_01": 1
-	"unk539612120": 1657026647
+	"unk539612120": -456686363
 	"MinusFieldGhostRandomSeed.17498053365273807820": 0
 	"TempName.Dungeon_01": 1
 	"TempName.Horse_07": 0
@@ -359950,7 +359950,7 @@
 	"MaterialShortCutCounter.Item_Fruit_H": 0
 	"MinusFieldGhostRandomSeed.3748382091370218167": 0
 	"MinusFieldGhostRandomSeed.1015408167533456156": 0
-	"unk3849581924": 5293
+	"unk3849581924": 5025
 	"TempName.Material_09": 0
 	"TempName.EnemyBokoblin_01": 0
 	"MaterialShortCutCounter.Item_Meat_11": 0
@@ -359990,7 +359990,7 @@
 	"MinusFieldGhostRandomSeed.4442185519123722408": 0
 	"TempName.GoronChallenge_00": 0
 	"MinusFieldGhostRandomSeed.12723836076961948774": 0
-	"TimeDayLookWorld": 11422
+	"TimeDayLookWorld": 10768
 	"MinusFieldGhostRandomSeed.3263113888408385562": 0
 	"MinusFieldGhostRandomSeed.15700133868313371258": 0
 	"MinusFieldGhostRandomSeed.17839575778888067937": 0
@@ -360772,10 +360772,10 @@
 }
 "UInt64": {
 	"World_ZonauRespawnTimer": 17179869184
-	"unk3906121421": 7034965641363542187
-	"World_BloodyMoonTimer": 1183760384
+	"unk3906121421": 1975014047552596733
+	"World_BloodyMoonTimer": 26971572747
 	"LastWildHorse.UidHash": 0
-	"World_CurrentDateTime": 1183760528
+	"World_CurrentDateTime": 31264321037
 }
 "UInt64Array": {
 	"Horse_UsedAmiiboUidHash": {
@@ -361419,11 +361419,9 @@
 		5627126512028484559
 		5628501630450919530
 		5635619533915454894
-		5643481104458182546
 		5652588015027839050
 		5673622374878920870
 		5759558051847259918
-		5821412891634407817
 		5829484933184158230
 		5829484933184158231
 		5829774037441818468
@@ -361487,8 +361485,6 @@
 		7746534662063919493
 		7774021795242694919
 		7779823997541071212
-		7822051893878089694
-		7822051895551836061
 		7834378282588426873
 		7845405719449664359
 		7853758893321860497
@@ -361504,11 +361500,9 @@
 		8444610699936251874
 		8458718080484039324
 		8485039736527054630
-		8520318485958109744
 		8532384783674686071
 		8536833070140563421
 		8586434494975592869
-		8592313937122241406
 		8592996383055049446
 		8647447248856164996
 		8671663610375799499
@@ -361562,7 +361556,6 @@
 		-8223157738124826797
 		-8175705233575571448
 		-8155463256526054425
-		-8150095288913314376
 		-8096677171434658202
 		-8094948102808389617
 		-8038246111046101755
@@ -361608,8 +361601,6 @@
 		-7153348269885363349
 		-7145469475259258289
 		-7127832488971059696
-		-7076051490019970665
-		-7076051487279108542
 		-7065090960520605322
 		-7044424246717674829
 		-6953336688963047910
@@ -361666,7 +361657,6 @@
 		-5543475861089466848
 		-5480722045024839836
 		-5432260819489078017
-		-5430044513470995535
 		-5367445280652168591
 		-5348561777041926354
 		-5313139450564599212
@@ -361682,7 +361672,6 @@
 		-5175555046167908524
 		-5137107815820506212
 		-5123152483694783374
-		-5119948134328922535
 		-5113279974615841947
 		-5079230996395163446
 		-5079230996395163445
@@ -361720,7 +361709,6 @@
 		-3999034001631893027
 		-3922483952289275237
 		-3861041194472734260
-		-3805816821313551982
 		-3767190773536181341
 		-3672238749327260827
 		-3654432216988455530
@@ -361816,7 +361804,6 @@
 		-506721218888553702
 		-493457892134858011
 		-446019724004182534
-		-444250621375079075
 		-416614802170990538
 		-336950523966311524
 		-256752421792589185

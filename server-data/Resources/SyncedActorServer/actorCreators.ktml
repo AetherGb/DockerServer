@@ -5,7 +5,7 @@
 		{
 			"targetClass": "ActorBaseSync"
 			"properties": {
-				"positionSyncType": "VELOCITY"
+				"positionSyncType": "LERP"
 			}
 		}
 		{
